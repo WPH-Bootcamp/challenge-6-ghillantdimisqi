@@ -1,13 +1,4 @@
+"use strict";
 // Tugas 2: Buat array untuk menyimpan koleksi buku
 // Array ini akan digunakan sebagai penyimpanan data sementara selama aplikasi berjalan
 // Pertimbangkan tipe data yang tepat untuk array ini berdasarkan definisi Book yang sudah dibuat
-
-const daftarBuku: Buku[] = [
-  {
-    id: 1,
-    judul: "Belajar TypeScript",
-    penulis: "Developer",
-    tahunTerbit: 2026,
-  },
-  { id: 2, judul: "Pemrograman Web", penulis: "Programmer", tahunTerbit: 2025 },
-];
